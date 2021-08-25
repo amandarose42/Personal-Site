@@ -18,7 +18,8 @@ layout: {
 top_row: {
     flexBasis: '35%',
     borderBottom: '1px solid black',
-
+    display:'flex',
+    justifyContent:'space-around'
 },
 mid_row: {
     flexBasis: '55%',
@@ -26,6 +27,16 @@ mid_row: {
 },
 bottom_row: {
     flexBasis: '20%',
+},
+img_top: {
+    width: '250px',
+    height: '300px',
+    marginTop: '15px',
+    marginBottom: '15px',
+    marginLeft : '15px'
+},
+quotes : {
+    margin: 'auto',
 }
 }));
 
