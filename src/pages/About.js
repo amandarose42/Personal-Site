@@ -31,7 +31,7 @@ function About() {
                             align="left">
                                 On my free time, I like to take in the view. Whether it be by the beach or with friends, 
                                 capturing beautiful moments always help capture beatiful memories. To give you a feel of 
-                                where I've been, here are some photos seen through my lense. <br/><br/>
+                                where I've been, here are some photos seen through my lens. <br/><br/>
                             </Typography>
                             <Typography
                             variant='h6'

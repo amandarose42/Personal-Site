@@ -16,6 +16,20 @@ menu_container:{
     width: '100%',
     height: '100%'
 },
+mid:{
+    flexBasis: '80%',
+    padding: '2em'
+},
+mid_paper:{
+    width: '95%', 
+    height: 'auto',
+    margin: 'auto',
+    marginTop: '-25px',
+    display: 'flex',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    padding: '1em'
+}
 }));
 
 export { workStyles }

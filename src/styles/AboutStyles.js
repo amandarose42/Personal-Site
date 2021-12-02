@@ -17,7 +17,8 @@ menu_container:{
     height: '100%'
 },
 mid:{
-    flexBasis: '80%'
+    flexBasis: '80%',
+    padding: '2em 0'
 },
 mid_paper:{
     width: '95%', 
@@ -26,7 +27,7 @@ mid_paper:{
     marginTop: '-25px',
     display: 'flex',
     flexDirection: 'row',
-    justifyContent: 'space-between'
+    justifyContent: 'space-between',
 },
 outside_images:{
     marginLeft: 15,
